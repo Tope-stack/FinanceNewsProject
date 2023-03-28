@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhgVmJcT3x0oP5tqnlJW0UYSrParVYG/52+liFxxZV6co+2uQ8gKUucu1z1E0OgulA9dfGzSoza1NpX5xD4Y1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\WebAppProj\\FinanceNews\\FinanceNews\\FinanceNews.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
